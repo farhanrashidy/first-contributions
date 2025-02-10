@@ -1,7 +1,6 @@
 # Contributors
-
+- [Sheikh Mohammad Farhan Rashidy (101512659)]
 - [Brahim](https://github.com/BrahimChatri)
--- Sheikh Mohammad Farhan Rashidy (101512659) --
 - [sanjeev muddala](https://github.com/rohitsanjeev)
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
